@@ -73,6 +73,11 @@ if &background ==# 'dark'
   hi WarningMsg ctermfg=139 ctermbg=236 guifg=#a88cb3 guibg=#2c2d30 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Function ctermfg=138 ctermbg=NONE guifg=#be868c guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=138 ctermbg=NONE guifg=#be868c guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi @function.call ctermfg=138 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi @method.call ctermfg=138 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi @include ctermfg=138 ctermbg=NONE guifg=#759abd guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi @namespace ctermfg=138 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi @punctuation ctermfg=138 ctermbg=NONE guifg=#8c95a0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi DiffDelete ctermfg=138 ctermbg=236 guifg=#be868c guibg=#2c2d30 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi DiffRemoved ctermfg=138 ctermbg=236 guifg=#be868c guibg=#2c2d30 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Error ctermfg=138 ctermbg=236 guifg=#be868c guibg=#2c2d30 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
